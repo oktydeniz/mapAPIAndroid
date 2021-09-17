@@ -28,7 +28,7 @@
         android:autofillHints="name"
         android:ems="10"
         android:inputType="text"
-        android:text="@string/place_name"
+        android:hint="@string/place_name"
         app:layout_constraintBottom_toTopOf="@+id/saveButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
